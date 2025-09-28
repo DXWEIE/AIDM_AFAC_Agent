@@ -11,3 +11,10 @@ pip install numpy pandas matplotlib langchain_openai langchain_community langcha
 Full explanation can refer to Zhihu:
 1. Data collection: https://zhuanlan.zhihu.com/p/1932786778286297319
 2. Agent design: https://zhuanlan.zhihu.com/p/1932787728283592116
+
+------
+20250928 V1 version include:
+1. search engine (search + click)
+2. data analyse tool via running python code in E2B
+3. tools for adding charts via generating html raw code
+4. charts quality checking with VLMs
