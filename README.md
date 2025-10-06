@@ -1,7 +1,7 @@
 # AFAC_agent_AIDM
 Implementation of my agent used in 2025 AFAC TianChi competition: https://tianchi.aliyun.com/competition/entrance/532354
 
-![Overview](./pic/overview.jpg)
+![Overview](./pic/ali_competition_overview.png)
 
 ------
 
